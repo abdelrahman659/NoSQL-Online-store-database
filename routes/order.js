@@ -6,4 +6,6 @@ router.post("/place-order", orderController.placeOrder);
 
 router.get('/order-history/:userId', orderController.orderHistory);
 
+router.get('/allOrders', orderController.allOrders);
+
 module.exports = router;

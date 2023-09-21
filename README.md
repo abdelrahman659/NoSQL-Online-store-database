@@ -35,4 +35,9 @@ This is the backend component of our online store application. It provides the s
 - **/order/place-order** to assign user order.
 - **/order/order-history/:userId** to show specific order (**_userId will be like this:65085d20813ca0cb0243abd1_**).
 
+### Clone
+
+```bash
+git clone https://github.com/abdelrahman659/NoSQL-Online-store-database.git
 ---
+```
