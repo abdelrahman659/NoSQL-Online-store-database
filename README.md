@@ -3,7 +3,7 @@
 No SQL online Store Database using (Nodejs ,express , mongodb)
 This is the backend component of our online store application. It provides the server-side functionality for user authentication, product management, order processing, and more.
 
-## At first you need to setup node Module
+## First of all you need to setup node Module
 
 1. npm install (To install all node packages)
 2. npm start (To Run the Node server)
